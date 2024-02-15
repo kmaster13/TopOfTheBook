@@ -4,20 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="48174c21-244a-45da-894e-c255cc6593c8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapper/BidMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/mapper/ResponseMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Bid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/model/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/TobService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/service/TobServiceImpl.java" afterDir="false" />
+    <list default="true" id="48174c21-244a-45da-894e-c255cc6593c8" name="Changes" comment="Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/model/Storage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/service/TobServiceNewImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,8 +86,17 @@
       <workItem from="1707596211907" duration="2930000" />
       <workItem from="1707641564826" duration="8074000" />
       <workItem from="1707662487176" duration="5060000" />
-      <workItem from="1707737683453" duration="11193000" />
+      <workItem from="1707737683453" duration="11921000" />
+      <workItem from="1708007502650" duration="6705000" />
     </task>
+    <task id="LOCAL-00001" summary="Commit">
+      <created>1707751013529</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1707751013529</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
 </project>
